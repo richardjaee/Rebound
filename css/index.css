@@ -589,23 +589,12 @@ input[type="reset"] {
 
 .testpic1 {
   width: 550px;
-  height: 450px;
+  height: 500px;
   margin-right: 50px;
   background-color: #ebebeb;
 }
 
-.testpic2 {
-  width: 550px;
-  height: 450px;
-  background-color: #ebebeb;
-}
 
-.testpic3 {
-  width: 550px;
-  height: 450px;
-  margin-left: 50px;
-  background-color: #ebebeb;
-}
 
 .image {
   width: 120px;
@@ -943,4 +932,25 @@ input[type="reset"] {
 .footercol1 {
   margin-left: 150px;
   padding-top: 30px;
+}
+
+
+
+input[type="file"] {
+  display: none;
+}
+.custom-file-upload {
+  border: 1px solid #ccc;
+  background-color: #080b0f;
+  display: inline-block;
+  cursor: pointer;
+  padding: 9px 15px;
+  background-color: #080b0f;
+  color: white;
+  border: 0;
+  line-height: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-left:2px;
 }
