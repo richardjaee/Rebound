@@ -589,23 +589,12 @@ input[type="reset"] {
 
 .testpic1 {
   width: 550px;
-  height: 450px;
+  height: 500px;
   margin-right: 50px;
   background-color: #ebebeb;
 }
 
-.testpic2 {
-  width: 550px;
-  height: 450px;
-  background-color: #ebebeb;
-}
 
-.testpic3 {
-  width: 550px;
-  height: 450px;
-  margin-left: 50px;
-  background-color: #ebebeb;
-}
 
 .image {
   width: 120px;
@@ -841,9 +830,9 @@ input[type="reset"] {
 }
 
 .imagediv {
-  margin-top: 50px;
+  margin-top: 20px;
   margin-bottom: 0px;
-  margin-left: 70px;
+  margin-left: 250px;
 }
 
 .slide-1 {
@@ -946,68 +935,22 @@ input[type="reset"] {
 }
 
 
-.slide {
-  background-image: url('../images/69414CD9-F36A-4D4E-BD35-DB0590C1F662-1.JPG');
-  background-position: 0% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 
 input[type="file"] {
-    display: none;
+  display: none;
 }
 .custom-file-upload {
-    border: 1px solid #ccc;
-    background-color: #080b0f;
-    display: inline-block;
-    cursor: pointer;
-    padding: 9px 15px;
-    background-color: #080b0f;
-    color: white;
-    border: 0;
-    line-height: inherit;
-    text-decoration: none;
-    cursor: pointer;
-    border-radius: 5px;
-    margin-left:2px;
-}
-.footerName {
-  margin-top: 10px;
-  font-family: Montserrat, sans-serif;
-  color: #fff;
-  font-weight: 500;
-}
-
-
-.footersection {
-  height: 350px;
-  margin-top: 0px;
-  background-color: #202024;
-}
-
-.footercol2 {
-  margin-left: 100px;
-  padding-top: 30px;
-}
-
-.footercol1 {
-  margin-left: 150px;
-  padding-top: 30px;
-}
-.footerLogo {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 1100px;
-  margin-right: auto;
-  margin-left: auto;
-  padding-top: 100px;
-}
-.smLogo {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  margin-top: 20px;
+  border: 1px solid #ccc;
+  background-color: #080b0f;
+  display: inline-block;
+  cursor: pointer;
+  padding: 9px 15px;
+  background-color: #080b0f;
+  color: white;
+  border: 0;
+  line-height: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-left:2px;
 }
