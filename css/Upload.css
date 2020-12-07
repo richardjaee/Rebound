@@ -474,6 +474,7 @@ input[type="reset"] {
 }
 
 .button {
+  margin-left: 20px;
   margin-right: 20px;
   border-radius: 5px;
   background-color: #21e6c1;
@@ -955,3 +956,9 @@ input[type="file"] {
   border-radius: 5px;
   margin-left:2px;
 }
+
+#Industries{
+  width:150px;
+  -webkit-appearance: menulist-button;
+   height: 35px;
+ }
