@@ -483,6 +483,7 @@ input[type="reset"] {
 }
 
 .button-2 {
+  margin-right: 20px;
   border-style: solid;
   border-width: 1px;
   border-color: #21e6c1;
